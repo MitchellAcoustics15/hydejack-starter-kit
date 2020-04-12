@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Soundscape Indices (SSID) Protocol, Applied Sciences (2020)
+title: "Mitchell, A.; Oberman, T.; Aletta, F.; Erfanian, M.; Kachlicka, M.; Lionello, M.; Kang, J. The Soundscape Indices (SSID) Protocol: A Method for Urban Soundscape Surveys—Questionnaires with Acoustical and Contextual Information. *Appl. Sci.* **2020**, 10, 2397."
 description: >
   The Soundscape Indices (SSID) Protocol: A Method for Urban Soundscape Surveys - Questionnaires with Acoustical and Contextual Information
 tags:           [publications]
