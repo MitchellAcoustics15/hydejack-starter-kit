@@ -4,7 +4,7 @@ title: Getting There - Part 1
 description: >
   The excitement is ramping up and the stress follows it.
 tags:       [personal, immigration]
-noindex: false
+noindex: true
 ---
 
 At the moment I am about two months away from the start of my PhD and there's still so much to do. In this series, I will document the process it took to get to this point, and each of hte steps as it progresses. Hopefully, since I've basically done this before, I'll be better at it this time (yeah, right).

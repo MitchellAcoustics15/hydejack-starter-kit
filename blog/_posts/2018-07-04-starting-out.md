@@ -5,10 +5,10 @@ description: >
   Welcome to the blog!
 tags:       [personal]
 # image: /assets/img/blog/example-content-ii.jpg
-noindex: false
+noindex: true
 ---
 
-Welcome to my journey! I'll be honest, I'm not sure I have any business writinga blog, or whether I'll even know what to put up here, but here it goes.
+Welcome to my journey! I'll be honest, I'm not sure I have any business writing a blog, or whether I'll even know what to put up here, but here it goes.
 
 Less than a week ago I found out I'd been accepted in a PhD program at University College London. Given that I've never done research before, and I live in Los Angele currently, this is going to present quite a change for me.
 

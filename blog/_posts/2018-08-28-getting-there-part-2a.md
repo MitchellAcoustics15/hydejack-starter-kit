@@ -3,7 +3,7 @@ layout: post
 title: Getting There - Part 2 - Kicked Out!
 
 tags:       [personal, immigration]
-noindex: false
+noindex: true
 ---
 
 ### Previously in the adventures of my adult life:
