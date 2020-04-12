@@ -5,7 +5,7 @@ description: >
   Welcome post to the blog
 tags:       [personal]
 # image: /assets/img/blog/example-content-ii.jpg
-noindex: true
+noindex: false
 ---
 
 Welcome to my journey! I'll be honest, I'm not sure I have any business writinga blog, or whether I'll even know what to put up here, but here it goes.
