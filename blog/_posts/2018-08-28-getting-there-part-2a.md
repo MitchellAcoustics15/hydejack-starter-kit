@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting There - Part 2 - Kicked Out!
-
+description: 
 tags:       [personal, immigration]
 noindex: true
 ---
@@ -26,9 +26,11 @@ This means this is the same type of visa I applied for for the new job in London
 
 ## Applying as a Working Stiff
 
-| ![uk-visas-immigration.jpg](/blog/img/uk-visas-immigration.jpg) |
-|:--:|
-| *The bane of my existence for six months* |
+<figure>
+  <img src="{{site.url}}/blog/uk-visas-immigration.jpg" alt="UK Visas and Immigration"/>
+  <figcaption>The bane of my existence for six months.</figcaption>
+</figure>
+
 
 By this point I had been through the initial conference drinks-meeting, several rounds of phone interviews and an online competence survey, traveled to London for an in-person interview (a trip where my girlfriend and I got lost somewhere south of the Thames, by the way), and gone through the salary and benefits negotiations. Needless to say I was glad to get through the process unscathed but by this point I was pretty exhausted and just ready to start working. But this was only the start of the real ordeal.
 
