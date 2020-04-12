@@ -13,3 +13,7 @@ description: >
   This is a featured category, which have their own page.
   Check out `_featured_tags/example.md` to learn how to create your own.
 ---
+
+# 2020
+
+ * Mitchell, A.; Oberman, T.; Aletta, F.; Erfanian, M.; Kachlicka, M.; Lionello, M.; Kang, J. The Soundscape Indices (SSID) Protocol: A Method for Urban Soundscape Surveys—Questionnaires with Acoustical and Contextual Information. *Appl. Sci.* **2020**, 10, 2397. [https://www.mdpi.com/2076-3417/10/7/2397](https://www.mdpi.com/2076-3417/10/7/2397)
