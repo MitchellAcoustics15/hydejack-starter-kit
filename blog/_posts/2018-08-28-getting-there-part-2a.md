@@ -26,7 +26,7 @@ This means this is the same type of visa I applied for for the new job in London
 ## Applying as a Working Stiff
 
 <figure>
-  <img src="{mitchellacoustics.github.io/blog/img/uk-visas-immigration.jpg" alt="UK Visas and Immigration"/>
+  <img src="mitchellacoustics.github.io/blog/img/uk-visas-immigration.jpg" alt="UK Visas and Immigration"/>
   <figcaption>The bane of my existence for six months.</figcaption>
 </figure>
 
