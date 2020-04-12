@@ -2,7 +2,7 @@
 layout: post
 title: Starting Out
 description: >
-  Welcome post to the blog
+  Welcome to the blog!
 tags:       [personal]
 # image: /assets/img/blog/example-content-ii.jpg
 noindex: false
