@@ -57,7 +57,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Blog
-    url:               /blog/
+    url:               /blog/_posts/
   - title:             Publications
     url:               /publications/
 
