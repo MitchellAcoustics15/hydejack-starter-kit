@@ -6,7 +6,7 @@ layout: list
 title: Personal Posts
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: personal
+slug: personal-posts
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
