@@ -19,22 +19,22 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack Starter Kit
+title:                 Sound Science
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
-  Open `_config.yml` to edit this text.
+  Andrew Mitchell's PhD Blog
+#  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+#  Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  Andrew Mitchell's PhD Blog
+#  Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Soundscape, Acoustics, Machine Learning, Data Science]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -43,10 +43,10 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Andrew Mitchell
+  email:               mitchellacoustics15@gmail.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             @mitchellacoustics
 
 # Add links to the sidebar.
 menu:
@@ -56,6 +56,10 @@ menu:
     url:               https://hydejack.com/docs/
   - title:             About
     url:               /about/
+  - title:             Blog
+    url:               /blog/
+  - title:             Publications
+    url:               /publications/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -66,7 +70,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved. Open `_config.yml` to edit this text.
+copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
