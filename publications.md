@@ -1,17 +1,21 @@
 ---
-# Featured tags need to have the `list` layout.
-layout: list
+# You can change it to the regular `page` layout if you want.
+layout: page
 
-# The title of the tag's page.
+# The title of the page.
 title: Publications
 
-# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: publications
-
-# (Optional) Write a short (~150 characters) description of this featured tag.
+# Write a short (~150 characters) description of each blog post.
+# This description is used to preview the page on search engines, social media, etc.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+# You can show the description on the page by deleting this line:
+hide_description: true
+
+# TODO
+# image: /assets/img/blog/hydejack-8.png
 ---
 
 # Publications
@@ -24,12 +28,4 @@ description: >
 
 * Erfanian, M.; **Mitchell, A.J.**; Kang, J.; Aletta, F. The Psychophysiological Implications of Soundscape: A Systematic Review of Empirical Literature and a Research Agenda. *Int. J. Environ. Res. Public Health* **2019**, 16, 3533. [https://www.mdpi.com/1660-4601/16/19/3533](https://www.mdpi.com/1660-4601/16/19/3533)
 
-* Test
 
-
-*** 
-
-
- # Relevant Posts:
-
-Test
