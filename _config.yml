@@ -46,7 +46,7 @@ author:
   name:                Andrew Mitchell
   email:               mitchellacoustics15@gmail.com
   # Used by `jekyll-seo-tag`:
-  twitter:             @mitchellacoustics
+  twitter:             mitchellacoustics
 
 # Add links to the sidebar.
 menu:
