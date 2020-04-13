@@ -7,6 +7,8 @@ tags:       [personal, immigration]
 noindex: true
 ---
 
+# Getting There: Part 2a - Kicked Out!
+
 ### Previously in the adventures of my adult life:
 
 I graduated college.
