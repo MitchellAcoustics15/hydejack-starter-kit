@@ -2,7 +2,8 @@
 layout: post
 title: A Brief Summary of My Research (for now!)
 tags:       [phd, acoustics, soundscape]
-description:    I realised I've completely neglected this blog, so I thought I might as well add at least something now that I've gotten to London and started working. I promise there are good reasons for my negligence (I got robbed over New Year's Eve, for one!) and I'll hopefully be more attentive, but for now, here's a (very) short summary I wrote for a recent scholarship application. Enjoy!
+description:  >
+  I realised I've completely neglected this blog, so I thought I might as well add at least something now that I've gotten to London and started working. I promise there are good reasons for my negligence (I got robbed over New Year's Eve, for one!) and I'll hopefully be more attentive, but for now, here's a (very) short summary I wrote for a recent scholarship application. Enjoy!
 noindex: true
 ---
 

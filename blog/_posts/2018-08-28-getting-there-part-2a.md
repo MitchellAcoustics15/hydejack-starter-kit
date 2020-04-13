@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Getting There - Part 2 - Kicked Out!
+title: Getting There - Part 2a
+description:   >
+  Kicked Out!
 tags:       [personal, immigration]
 noindex: true
 ---
@@ -26,7 +28,7 @@ This means this is the same type of visa I applied for for the new job in London
 ## Applying as a Working Stiff
 
 <figure>
-  <img src="mitchellacoustics.github.io/blog/img/uk-visas-immigration.jpg" alt="UK Visas and Immigration"/>
+  <img src="/blog/img/uk-visas-immigration.jpg" alt="UK Visas and Immigration"/>
   <figcaption>The bane of my existence for six months.</figcaption>
 </figure>
 
