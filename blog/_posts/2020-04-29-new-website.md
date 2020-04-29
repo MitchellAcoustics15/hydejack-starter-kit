@@ -8,7 +8,7 @@ noindex: true
 
 # Welcome to my new website!
 
-Like so many people, I've been under the COVID-19 quarantine and desperately searching for ways to cling to sanity. I've only been partially sucessful at that, since 8+ weeks in lockdown when you basicaly live alone isn't just something that can be stubbornly pushed through. But, thankfully, while procrastinating my thesis writing I have been somewhat productive - I built myself a website!
+Like so many people, I've been under the COVID-19 quarantine and desperately searching for ways to cling to sanity. I've only been partially sucessful at that, since 8+ weeks in lockdown when you basically live alone isn't just something that can be stubbornly pushed through. But, thankfully, while procrastinating my thesis writing I have been somewhat productive - I built myself a website!
 
 By now, I have quite a bit of experience with programming, but it's all limited to research, which has its own particular styles, requirements, and norms and I have no experience with coding for the internet. So, I decided to dive in and see how successful I could get in setting up a simple, modern looking custom website. I think it's been pretty successful, but you'll have to decide for yourself by taking a look around!
 
