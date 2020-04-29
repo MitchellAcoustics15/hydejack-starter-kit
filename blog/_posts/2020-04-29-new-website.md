@@ -2,11 +2,7 @@
 layout: post
 title: New Website!
 tags:       [book diary, personal]
-description:  >
-    <figure>
-    <img src="/assets/img/website-logo.png" alt="<i>Foundation</i> by Isaac Asimov"/>
-    <figcaption><i>Foundation</i> by Isaac Asimov</figcaption>
-    </figure>
+
 noindex: true
 ---
 
