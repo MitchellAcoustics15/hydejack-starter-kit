@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Website!
-tags:       [book diary, personal]
+tags:       [personal]
 
 noindex: true
 ---
@@ -24,3 +24,5 @@ The nicest thing about this system is that everything can be done through markdo
 Once everything is setup - which took me only a couple hours, from finding Hydejack to cleaning up the website and publishing this post - adding a new post is super simple. Create a new markdown text document, change the header info, write the post, make sure the filename has the date, then save the blog folder, push to Github and that's it! The new post get's added to the chronological list of posts, added to whatever sub-page I tagged it for, and the template takes care of all of the formatting and prettifying. Even adding photos to posts is pretty simple, just include a link to it either saved in the Github repository or as a url, and let markdown know it's a photo and it get's inserted wherever you asked for it. 
 
 Like I said, I had a few twists to work out at the start, and I'm sure it could be much smoother but for what I wanted to accomplish it's spot on and I'm very happy with it! Hopefully the simplicity of adding new posts will encourage me to keep it more up to date than the Wordpress version did...
+
+For now, enjoy whatever random assortment of posts is up here, and keep an eye out for my future posts and publications!
