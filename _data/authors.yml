@@ -12,8 +12,6 @@ author1:
     Andrew is a doctoral researcher in the Institute of Environmental Design and Engineering at University College London (UCL). 
     His research interests are focussed on environmental acoustics, sound perception, and machine learning applied to subjective and perceptual data.
 
-    Open `_data/authors.yml` to edit this text.
-
   # This photo will be used in the about section.
   picture:
     path:            /assets/img/Andrew - venice photo.jpg
