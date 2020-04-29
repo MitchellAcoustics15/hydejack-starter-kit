@@ -17,7 +17,7 @@ hide_description: true
 image: /assets/img/Andrew - venice photo.jpg
 ---
 
-->![](/assets/img/Andrew - venice photo.jpg)<-
+![](/assets/img/Andrew - venice photo.jpg){: .center-image }
 
 Andrew is a doctoral researcher in the Institute of Environmental Design and Engineering at University College London (UCL). His research interests are focussed on environmental acoustics, sound perception, and machine learning applied to subjective and perceptual data. Currently, Andrew is focussed on creating a computational model for predicting the perception of urban soundscapes and advancing our understanding of how the perception of complex sound environments is formed. 
 
