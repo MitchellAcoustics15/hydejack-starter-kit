@@ -7,6 +7,10 @@ tags:       [PhD, personal]
 image: /blog/img/bullshit-meme-1.jpg
 noindex: true
 ---
+Meme text:
+> This is America... We have a virus...but 99% of those who contract it will survive. We have some racists...but 99.95% of the people you meet are color blind and don't have a racial bone in their body. We have some bad cops...but 99.995% of the law enforcement personnel you encounter would risk their lives to save yours. If you choose to see evil, then evil is all you'll see. As for me...I choose to see the good in people...my heart is full...I've got nothing but love for all of you...
+
+ ---
 
 I constantly see memes exactly like this which try to couch their apathy and blindness in statistics. Although they seem to be neutral, they always pop up during periods of unrest, most often related to BLM, and are clearly attempting to make people think the calm, rational, loving reaction is to just be quiet. I didn't see memes with this attitude during
 
