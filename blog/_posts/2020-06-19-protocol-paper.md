@@ -14,7 +14,7 @@ noindex: false
 
 Find the full paper at the MDPI Applied Sciences Page - [DOI: 10.3390/app10072397](https://www.mdpi.com/2076-3417/10/7/2397)
 
-## The Soundscape Indices (SSID) Protocol: A Method for Urban Soundscape Surveys - Questionnaires with Acoustical and Contextual Information
+---
 
 For the past year, a huge portion of my PhD work has been focussed on data collection. Our goal in the SSID data collection is to gather a massive database of soundscape questionnaire surveys combined with objective acoustical and environmental data. Given the complexity of all of the different data sources, the protocol for correctly carrying out and organising the surveys is pretty involved.
 
