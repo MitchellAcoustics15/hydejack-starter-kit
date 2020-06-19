@@ -12,7 +12,7 @@ noindex: false
 
 # First paper published! SSID Protocol
 
-Find the full paper at the MDPI Applied Sciences Page - (DOI: 10.3390/app10072397)[https://www.mdpi.com/2076-3417/10/7/2397]
+Find the full paper at the MDPI Applied Sciences Page - [DOI: 10.3390/app10072397](https://www.mdpi.com/2076-3417/10/7/2397)
 
 ## The Soundscape Indices (SSID) Protocol: A Method for Urban Soundscape Surveys - Questionnaires with Acoustical and Contextual Information
 
