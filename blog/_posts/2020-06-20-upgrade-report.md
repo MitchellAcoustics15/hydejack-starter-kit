@@ -3,9 +3,9 @@ layout: post
 title: PhD Upgrade done and passed, thankfully.
 tags:       [soundscape, PhD, upgrade]
 description:  >
-    Also, the London Black Lives Matter protests
   <figure>
     <img src="/blog/img/BLM-London1.jpg" alt="BLM Protest in London, June 6, 2020"/>
+    <figcaption>Also, the London Black Lives Matter protests</figcaption>
   </figure>
 noindex: true
 ---
