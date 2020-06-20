@@ -7,7 +7,7 @@ description:  >
     <img src="/blog/img/BLM-London1.jpg" alt="BLM Protest in London, June 6, 2020"/>
     <figcaption>Also, the London Black Lives Matter protests</figcaption>
   </figure>
-noindex: true
+noindex: false
 ---
 
 # PhD Upgrade done and passed, thankfully
