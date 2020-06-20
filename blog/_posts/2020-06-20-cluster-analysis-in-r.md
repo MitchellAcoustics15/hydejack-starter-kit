@@ -9,5 +9,5 @@ noindex: true
 
 # Clustering analysis in R, with `factoextra` and `NbClust`
 
-{% include /blog/img/Cluster-Analysis-in-R.html}
+{% include Cluster-Analysis-in-R.html}
 
